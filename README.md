@@ -15,7 +15,7 @@ python train_3dmatch.py
 
 ### Evaluating
 ```shell
-python ./scripts/generate_desc.py
+python ./scripts/generate_desc_kp.py
 python ./scripts/evaluation_3dmatch.py
 ```
 
